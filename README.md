@@ -40,7 +40,9 @@ or via the right-click menu.
 With the settings option `"onload": true`,
 PyCover will start highlighting missing lines as soon as your file loads.
 
-The `highlight_uncovered_lines` option is used to toggle highlighting of uncovered lines. When this option is set to `true`, uncovered lines are highlighted in both editor window and minimap. However, this can be disruptive to the experience for some users, so by default this option is set to `false`. 
+The `highlight_uncovered_lines` option is used to toggle highlighting of uncovered lines.
+When this option is set to `true`, uncovered lines are highlighted in both editor window and minimap.
+However, this can be disruptive to the experience for some users, so by default this option is set to `false`.
 
 ![Highlight uncovered lines of code](/demo/highlight_uncovered_lines.png?raw=true "Highlight uncovered lines of code")
 
